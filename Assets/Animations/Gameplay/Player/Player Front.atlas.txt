@@ -1,0 +1,118 @@
+
+Player Front.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face_00
+  rotate: true
+  xy: 391, 377
+  size: 133, 97
+  orig: 133, 97
+  offset: 0, 0
+  index: -1
+hair_00
+  rotate: false
+  xy: 2, 332
+  size: 387, 178
+  orig: 387, 178
+  offset: 0, 0
+  index: -1
+headbase_00
+  rotate: false
+  xy: 2, 73
+  size: 262, 257
+  orig: 262, 257
+  offset: 0, 0
+  index: -1
+left_arm_lower_00
+  rotate: false
+  xy: 490, 434
+  size: 20, 76
+  orig: 20, 76
+  offset: 0, 0
+  index: -1
+left_arm_upper_00
+  rotate: true
+  xy: 266, 2
+  size: 81, 99
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+left_foot_00
+  rotate: true
+  xy: 363, 119
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+left_hand_00
+  rotate: false
+  xy: 130, 19
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+left_leg_lower_00
+  rotate: false
+  xy: 2, 5
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+left_leg_upper_00
+  rotate: false
+  xy: 266, 85
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+right_arm_lower_00
+  rotate: false
+  xy: 490, 356
+  size: 20, 76
+  orig: 20, 76
+  offset: 0, 0
+  index: -1
+right_arm_upper_00
+  rotate: true
+  xy: 388, 198
+  size: 80, 99
+  orig: 80, 99
+  offset: 0, 0
+  index: -1
+right_foot_00
+  rotate: false
+  xy: 401, 160
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+right_hand_00
+  rotate: false
+  xy: 188, 19
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+right_leg_lower_00
+  rotate: false
+  xy: 66, 5
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+right_leg_upper_00
+  rotate: false
+  xy: 391, 280
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+torso_00
+  rotate: false
+  xy: 266, 182
+  size: 120, 148
+  orig: 120, 148
+  offset: 0, 0
+  index: -1

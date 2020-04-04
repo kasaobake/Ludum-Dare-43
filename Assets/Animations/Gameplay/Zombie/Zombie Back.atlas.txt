@@ -1,0 +1,104 @@
+
+Zombie Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+headbase_20
+  rotate: true
+  xy: 2, 24
+  size: 221, 261
+  orig: 221, 261
+  offset: 0, 0
+  index: -1
+left_arm_lower_20
+  rotate: true
+  xy: 2, 2
+  size: 20, 76
+  orig: 20, 76
+  offset: 0, 0
+  index: -1
+left_arm_upper_20
+  rotate: false
+  xy: 557, 161
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+left_foot_20
+  rotate: false
+  xy: 765, 193
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+left_hand_20
+  rotate: false
+  xy: 888, 193
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+left_leg_lower_20
+  rotate: true
+  xy: 362, 85
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+left_leg_upper_20
+  rotate: false
+  xy: 362, 149
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+right_arm_lower_20
+  rotate: true
+  xy: 945, 225
+  size: 20, 76
+  orig: 20, 76
+  offset: 0, 0
+  index: -1
+right_arm_upper_20
+  rotate: false
+  xy: 630, 161
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+right_foot_20
+  rotate: false
+  xy: 265, 28
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+right_hand_20
+  rotate: false
+  xy: 830, 193
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+right_leg_lower_20
+  rotate: false
+  xy: 703, 179
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+right_leg_upper_20
+  rotate: false
+  xy: 460, 150
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+torso_20
+  rotate: false
+  xy: 265, 84
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1

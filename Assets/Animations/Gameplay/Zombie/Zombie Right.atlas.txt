@@ -1,0 +1,111 @@
+
+Zombie Right.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face_10
+  rotate: true
+  xy: 358, 87
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+headbase_10
+  rotate: true
+  xy: 2, 35
+  size: 203, 261
+  orig: 203, 261
+  offset: 0, 0
+  index: -1
+left_arm_lower_10
+  rotate: true
+  xy: 2, 2
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+left_arm_upper_10
+  rotate: false
+  xy: 554, 147
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+left_foot_10
+  rotate: false
+  xy: 905, 202
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+right_foot_10
+  rotate: false
+  xy: 905, 202
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+left_hand_10
+  rotate: false
+  xy: 707, 172
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+left_leg_lower_10
+  rotate: false
+  xy: 779, 172
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+left_leg_upper_10
+  rotate: false
+  xy: 358, 142
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+right_arm_lower_10
+  rotate: true
+  xy: 265, 48
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+right_arm_upper_10
+  rotate: false
+  xy: 634, 154
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+right_hand_10
+  rotate: false
+  xy: 468, 88
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+right_leg_lower_10
+  rotate: false
+  xy: 843, 172
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+right_leg_upper_10
+  rotate: false
+  xy: 456, 142
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+torso_10
+  rotate: false
+  xy: 265, 78
+  size: 91, 160
+  orig: 91, 160
+  offset: 0, 0
+  index: -1
